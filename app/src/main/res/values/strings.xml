@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">quiz1</string>
+
+    <string name="score">Score 0/10</string>
+    <string name="question_number">1/10 Question</string>
+
+
+    <string name="question1">A program that can execute high-level language programs.</string>
+    <string name="question1_A">Compiler</string>
+    <string name="question1_B">Interpreter</string>
+    <string name="question1_C">Sensor</string>
+    <string name="question1_D">Circuitry</string>
+    <string name="answer_1">Interpreter</string>
+
+    <string name="question2">A language supported by MS. Net platform.</string>
+    <string name="question2_A">C</string>
+    <string name="question2_B">C++</string>
+    <string name="question2_C">Java</string>
+    <string name="question2_D">C#</string>
+    <string name="answer_2">C#</string>
+
+    <string name="question3">getch() is used for what in C programming?</string>
+    <string name="question3_A">Holding the Screen</string>
+    <string name="question3_B">Getting character</string>
+    <string name="question3_C">Printing one char</string>
+    <string name="question3_D">Reading the value</string>
+    <string name="answer_3">Holding the Screen</string>
+
+    <string name="question4">Which is older programming language?</string>
+    <string name="question4_A">Python</string>
+    <string name="question4_B">Java</string>
+    <string name="question4_C">HTML</string>
+    <string name="question4_D">AI</string>
+    <string name="answer_4">Python</string>
+
+    <string name="question5">Which of the following special symbol allowed in a variable name?</string>
+    <string name="question5_A">*(asterisk)</string>
+    <string name="question5_B">|(pipeline)</string>
+    <string name="question5_C">-(hyphen)</string>
+    <string name="question5_D">_(underscore)</string>
+    <string name="answer_5">_(underscore)</string>
+
+    <string name="question6">Who is the Father of C?</string>
+    <string name="question6_A">Bjarne Stroustrup</string>
+    <string name="question6_B">James Gosling</string>
+    <string name="question6_C">Dennis Ritchie</string>
+    <string name="question6_D">Dr. E.F.Codd</string>
+    <string name="answer_6">Dennis Ritchie</string>
+
+    <string name="question7">Who is current IT Minister of India?</string>
+    <string name="question7_A">Amit Shah</string>
+    <string name="question7_B">Shri Ravi Shankar Prasad</string>
+    <string name="question7_C">Nitin Gadkari</string>
+    <string name="question7_D">Smriti Irani</string>
+    <string name="answer_7">Shri Ravi Shankar Prasad</string>
+
+    <string name="question8">What technology is used to make telephone calls over the internet possible</string>
+    <string name="question8_A">Bluetooth</string>
+    <string name="question8_B">Ethernet</string>
+    <string name="question8_C">NFC</string>
+    <string name="question8_D">VoIP</string>
+    <string name="answer_8">VoIP</string>
+
+    <string name="question9">Which city is known IT capital of India?</string>
+    <string name="question9_A">Banglore</string>
+    <string name="question9_B">Pune</string>
+    <string name="question9_C">Hyderabad</string>
+    <string name="question9_D">Mumbai</string>
+    <string name="answer_9">Banglore</string>
+
+    <string name="question10">Which media format is not supported by Android</string>
+    <string name="question10_A">MP4</string>
+    <string name="question10_B">AVI</string>
+    <string name="question10_C">MIDI</string>
+    <string name="question10_D">MPEG</string>
+    <string name="answer_10">AVI</string>
+    <string name="mscore">Score</string>
+    <string name="selected_option">Selected Option</string>
+    <string name="correct_answer">Correct Answer</string>
+
+
+</resources>
